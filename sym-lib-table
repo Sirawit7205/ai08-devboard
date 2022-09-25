@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "AI08_devboard")(type "KiCad")(uri "${KIPRJMOD}/lib/AI08_devboard.kicad_sym")(options "")(descr ""))
+)
