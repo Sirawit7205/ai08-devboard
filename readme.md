@@ -36,3 +36,8 @@ We are currently at Revision 1. Changelog is below:
 The goal of this repository is to enable you to build this on your own as easy as possible (although I originally plan to sell this as a kit as well). **The schematics, PCB design, and an interactive BOM is provided.**
 
 This project is licensed under the [Solderpad Hardware License v2.1](http://solderpad.org/licenses/SHL-2.1/). 
+
+## Ordering
+
+You can export gerbers from this project and order the board yourself. You can also use the link below to directly order from Aisler.
+https://aisler.net/p/NBMILDEY
