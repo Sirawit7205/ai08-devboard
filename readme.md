@@ -35,7 +35,13 @@ We are currently at Revision 1. Changelog is below:
 
 The goal of this repository is to enable you to build this on your own as easy as possible (although I originally plan to sell this as a kit as well). **The schematics, PCB design, and an interactive BOM is provided.**
 
-This project is licensed under the [Solderpad Hardware License v2.1](http://solderpad.org/licenses/SHL-2.1/). 
+Hardware is licensed under `SPDX-License-Identifier: CERN-OHL-S-2.0`
+
+Software is licensed under `SPDX-License-Identifier: GPL` (Actually there is no software for this board. Oops.)
+
+Documentation is licensed under `SPDX-License-Identifier: CC-BY-SA-4.0`
+
+**This project is an OSHWA Certified Open Source Hardware Project with UID [TH000011](https://certification.oshwa.org/th000011.html).**
 
 ## Ordering
 
